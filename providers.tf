@@ -1,6 +1,6 @@
 #s3_bucket 
-provider "aws" {
+provider "azure" {
     
-  region = "ap-south-1a"
+  region = "es-ust1"
   
 }
