@@ -4,6 +4,6 @@ resource "aws_s3_bucket" "my_s3_bucket_letsmovetocloud" {
 
   tags = {
     Name        = "terraform bucket"
-    Environment = "Dev"
+    Environment = "test"
   }
 }
